@@ -27,6 +27,7 @@ public class SelectSort {
     }
 
 
+
     public static void main(String[] args) {
         int[] data = new int[]{3,2,15,32,5,9,54};
         insert(data);
