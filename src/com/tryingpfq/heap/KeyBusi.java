@@ -1,4 +1,4 @@
-package tryingpfq.heap;
+package com.tryingpfq.heap;
 
 /**
  * 关键字信息

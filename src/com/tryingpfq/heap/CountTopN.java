@@ -1,4 +1,4 @@
-package tryingpfq.heap;
+package com.tryingpfq.heap;
 
 import java.util.*;
 

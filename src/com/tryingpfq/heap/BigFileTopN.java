@@ -1,9 +1,8 @@
-package tryingpfq.heap;
+package com.tryingpfq.heap;
 
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 
 /**
  * 堆的应用: 求文件topN 问题

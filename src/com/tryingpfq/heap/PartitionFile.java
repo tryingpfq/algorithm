@@ -1,9 +1,6 @@
-package tryingpfq.heap;
-
-import sun.misc.IOUtils;
+package com.tryingpfq.heap;
 
 import java.io.*;
-import java.nio.file.Files;
 
 /**
  * 对文件进行分区操作工具
